@@ -14,3 +14,7 @@ print(x)
 # Python uses PEMDAS for operator precedence
 y = 10 + 3 / 3 * (5 * 2)
 print(y)
+z = 10 + 3 * 3 ** 3
+print(z)
+z = (10 + 3) * 3 ** 3
+print(z)
